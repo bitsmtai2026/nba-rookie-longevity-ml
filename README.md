@@ -4,8 +4,8 @@
 
 | Link | URL |
 |---|---|
-| GitHub repository | `<PASTE-YOUR-GITHUB-REPO-URL>` |
-| Live Streamlit app | `<PASTE-YOUR-STREAMLIT-APP-URL>` |
+| GitHub repository | `https://github.com/bitsmtai2026/nba-rookie-longevity-ml` |
+| Live Streamlit app | `https://nba-rookie-longevity-ml.streamlit.app` |
 
 ---
 
